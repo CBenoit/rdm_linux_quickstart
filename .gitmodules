@@ -1,0 +1,4 @@
+[submodule "RDMOX"]
+	path = RDMOX
+	url = git@github.com:Devolutions/RDMOX.git
+	branch = master
